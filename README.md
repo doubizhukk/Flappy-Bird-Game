@@ -13,5 +13,5 @@ A remake of the popular mobile game Flappy Bird. Coded using only the standard J
 ## Preview
 ![](https://github.com/doubizhukk/Flappy-Bird-Game/blob/master/Flappy%20Bird.gif)
 ## Notes
-Tailored the vertical movement of the bird to dodge and pass the incoming tubes.   
-Randomly generated the height of tubes meanwhile moving the tubes to the left as time goes on.
+* Tailored the vertical movement of the bird to dodge and pass the incoming tubes.   
+* Randomly generated the height of tubes meanwhile moving the tubes to the left as time goes on.
