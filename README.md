@@ -1,11 +1,11 @@
-# Flappy-Bird-Game
+# Flappy Bird Game
 ## Overview
 A remake of the popular mobile game Flappy Bird. Coded using only the standard JAVA base class library.   
    
-The bird will continue to fall under the influence of gravity.   
-Hit the `UP` bottum using keyboard to make the fird flap its wings and fly upwards.   
-During the game, the player need to control the bird to dodge and pass the incoming tubes.   
-You will get point after passing the randomly generated tubes or fail the game when you hit the tubes.   
+* The bird will continue to fall under the influence of gravity.   
+* Hit the `UP` button using keyboard to make the bird flaps its wings and therefore flying upward.   
+* In this game, the player is able to control the bird to dodge and pass the incoming tubes, which have various heights meanwhile moving to the left at a constant speed.   
+* The player will get points after passing the randomly generated tubes or fail in the game once hitting the tubes.   
 ## How to play
 1. Download jar file.   
 2. Ensure that you have IntelliJ installed and open file.
