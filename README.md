@@ -3,7 +3,7 @@
 A remake of the popular mobile game Flappy Bird. Coded using only the standard JAVA base class library.   
    
 The bird will continue to fall under the influence of gravity.   
-Hit the `UP` bottum to make the fird flap its wings and fly upwards.   
+Hit the `UP` bottum using keyboard to make the fird flap its wings and fly upwards.   
 During the game, the player need to control the bird to dodge and pass the incoming tubes.   
 You will get point after passing the randomly generated tubes or fail the game when you hit the tubes.   
 ## How to play
